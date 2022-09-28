@@ -10,7 +10,7 @@ function App() {
   const data = [
     {
       img: "https://media.istockphoto.com/photos/tropical-white-sand-cay-beach-in-los-roques-venezuela-picture-id166639950?b=1&k=20&m=166639950&s=170667a&w=0&h=L1ZwAHyNpkxT2RaS63KCmzxGbUTQGi62AJcnfEeQY3U=",
-      titulo: "Archipiélago Los Roques (Venezuela)",
+      titulo: "Los Roques (Venezuela)",
       descripcion: "Ubicado en el Mar Caribe. Esta área protegida de 400km cuadrados contiene más de 300 islas y cayos. El arrecife de coral en la zona es popular entre quienes practican el esnórquel y el buceo. El parque es famoso por sus playas de arena blanca apartadas, el surf a vela y la navegación.",
     },
     {
@@ -51,7 +51,7 @@ function App() {
     {
       img: "https://media.istockphoto.com/photos/eiffel-tower-in-paris-france-picture-id924891460?b=1&k=20&m=924891460&s=170667a&w=0&h=jo4dxl8sqUnYyVVxfVoVKbZPLmpcxuH3JABmc0r5-4Q=",
       titulo: "Torre Eiffel (Francia)​",
-      descripcion: "Es una estructura de hierro pudelado. Situada en el extremo del Campo de Marte a la orilla del río Sena. Este monumento es el más visitado del mundo con 7,1 millones de turistas cada año.​ Tiene una altura de 300 metros, prolongada más tarde con una antena hasta los 324 metros.",
+      descripcion: "Estructura de hierro pudelado. Situada en el extremo del Campo de Marte a la orilla del río Sena. Este monumento es el más visitado del mundo con 7,1 millones de turistas cada año.​ Tiene una altura de 300 metros, prolongada más tarde con una antena hasta los 324 metros. Fue la estructura más elevada del mundo durante 41 años.",
     },
     {
       img: "https://media.istockphoto.com/photos/santorini-island-greece-picture-id1145450965?b=1&k=20&m=1145450965&s=170667a&w=0&h=LPPwsu4Bf6ovW6XriLOsi0wJ6xrsIUD-j9K3xjtAszE=",
@@ -61,7 +61,7 @@ function App() {
     {
       img: "https://media.istockphoto.com/photos/mt-vesuvius-and-pompeii-picture-id960153998?b=1&k=20&m=960153998&s=170667a&w=0&h=WSjrJx4FkTGmXZgGZWyjcnkoJ2GJHjqEmi1l7uBsuxw=",
       titulo: "Pompeya​ (Italia)",
-      descripcion: "Es un sitio arqueológico ubicado en la región de Campania, al sur de Italia. Fue una ciudad romana desarrollada y sofisticada y quedó enterrada bajo metros de cenizas y piedra pómez después de una catastrófica erupción del monte Vesubio en el año 79 d.C. El sitio bien preservado cuenta con ruinas excavadas que pueden explorarse libremente.",
+      descripcion: "Es un sitio arqueológico ubicado en la región de Campania, al sur de Italia. Fue una ciudad romana desarrollada y sofisticada y quedó enterrada bajo metros de cenizas y piedra pómez después de una catastrófica erupción del monte Vesubio en el año 79 d.C. El sitio bien preservado cuenta con ruinas excavadas que pueden explorarse.",
     },
     {
       img: "https://media.istockphoto.com/photos/aerial-view-of-las-vegas-strip-in-nevada-picture-id614973464?b=1&k=20&m=614973464&s=170667a&w=0&h=72lHkgF5EikOyqh7LHg3waf8rLmVILMFONNqVUq7faA=",
