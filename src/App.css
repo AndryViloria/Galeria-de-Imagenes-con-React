@@ -1,0 +1,42 @@
+.container_galeria{
+background: #f9f8f9;
+padding-left: 60px;
+padding-right: 60px;
+margin-bottom: 50px;
+}
+
+header{
+    text-align: center;
+    background: #213343;
+    color: #ffffff;
+    padding: 25px;
+}
+
+.card{
+    margin-top: 48px;
+    background: white;
+    border: 2px solid lightgray;
+    box-shadow: 1px 1px 3px 1px lightgray;
+}
+
+.card p{
+    text-align: justify;
+    margin-top: 20px;
+}
+
+.card h5{
+    margin-top: 10px;
+}
+
+footer{
+    text-align: center;
+    line-height: 0.5;
+    background: #213343;
+    padding: 20px;
+    color: #ffffff;
+}
+
+.footer .badge {
+    background: orangered;
+    color: white;
+}
